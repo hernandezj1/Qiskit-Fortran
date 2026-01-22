@@ -2,7 +2,7 @@
 
 **Experimental SWIG-based Fortran bindings for the Qiskit C API**
 
-This repository contains a very early-stage experiment in exposing the **Qiskit C API** to **Fortran** using **SWIG for Fortran**. It is *not* intended for end users and is currently closer to a proof-of-concept than a polished library.
+This repository contains a very early-stage experiment in exposing the **Qiskit C API** to **Fortran** using **SWIG for Fortran**. It is *not* intended for end users and is currently closer to a proof-of-concept than a polished library. It was created for IBM's Qiskit Advocate Mentorship Program under group 32- Hello HPC. 
 
 ## Overview
 
