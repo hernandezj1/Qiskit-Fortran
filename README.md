@@ -50,6 +50,3 @@ This repository is primarily useful for:
 - Exploration of calling Qiskit’s C API from Fortran
 - Compiler / interoperability research
 
-## License
-
-
